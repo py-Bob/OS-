@@ -4,3 +4,5 @@
 https://github.com/py-Bob/OSProjectnote/tree/main/rust-arceos-py-Bob
 ## 第二阶段
 https://github.com/py-Bob/OSProjectnote/tree/main/rust-rustlings-py-Bob
+## paper received
+https://github.com/py-Bob/OSProjectnote/blob/main/TVT_received.jpg
